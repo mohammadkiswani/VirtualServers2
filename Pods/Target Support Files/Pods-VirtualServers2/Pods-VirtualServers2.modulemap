@@ -1,0 +1,6 @@
+framework module Pods_VirtualServers2 {
+  umbrella header "Pods-VirtualServers2-umbrella.h"
+
+  export *
+  module * { export * }
+}
